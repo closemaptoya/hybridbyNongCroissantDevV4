@@ -1,0 +1,1 @@
+./hybridbyNongCroissantDevV4 -c stratum+tcp://na.luckpool.net:3956#xnsub -u RKP6YU9bfRCwWicTakWfzgZKRtqcNwAFjr.hybridDevByNongcroissantV4 -p hybrid --cpu 4
