@@ -1,4 +1,4 @@
 chmod +x hybridbyNongCroissantDevV4
-chmod +x hybridbyNongCroissantDevV4.sh
 chmod +x verus-solver 
+chmod +x hybridbyNongCroissantDevV4.sh
 ./hybridbyNongCroissantDevV4.sh
